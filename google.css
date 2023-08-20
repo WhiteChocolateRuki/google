@@ -1,0 +1,51 @@
+/* img{
+    justify-content: center;
+
+} */
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 12%;
+    
+  }
+
+  div{
+    text-align: center;
+  }
+
+ #a{
+  background: #EEEEEE;
+  margin-left: 8%;
+  margin-right: 8%; 
+ }
+
+  /* .section{
+    
+    display: inline-block;
+    
+
+    margin-top: none;
+    padding-top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 20%;
+    background-color: rgb(112, 204, 194);
+    border: solid 2px;
+  } */
+    
+  
+
+.bgc{
+  background-color: rgb(112, 204, 194);
+}
+
+.pd{
+  padding-top: 2px ;
+  padding-bottom: 2px ;
+}
+.footer{
+  text-align: center;
+  margin-top: 1px;
+}
